@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27-05-2023 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -16,14 +16,37 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
-## Output:
+### Step 1:
+![image](https://github.com/shoaib3136/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/117919362/448c35bd-9d21-4009-b03d-bb12db610d3a)
+### Explanation:
 
-### Name:
-### Register Number:
+### Step 2:
+![image](https://github.com/shoaib3136/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/117919362/17d14ab3-51af-45e2-bdb3-43077ab6de4d)
+### Explanation:
+
+### Step 3:
+![image](https://github.com/shoaib3136/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/117919362/ad0c8318-d097-47a0-b3d7-c30ce285ff9c)
+### Explanation:
+
+### Step 4:
+![image](https://github.com/shoaib3136/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/117919362/73055eb5-f766-4b99-81d9-8965596f061e)
+### Explanation:
+
+### Step 5:
+![image](https://github.com/shoaib3136/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/117919362/17361f53-6790-4105-8af1-c97b357a8856)
+
+### Explanation:
+
+### Step 6:
+![WhatsApp Image 2023-05-27 at 16 18 05](https://github.com/shoaib3136/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/117919362/f18bd10b-7acb-45e3-8c13-2ac4a21c5baf)
+### Explanation:
+
+
+
+
+### Name: Shaik Shoaib Nawaz
+### Register Number: 212222240094
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
